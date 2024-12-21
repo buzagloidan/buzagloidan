@@ -11,7 +11,7 @@ Hi, I'm **Idan**, a passionate **Economist turned Data Scientist** with a strong
   - Data Science
   - Machine Learning
   - Financial Analysis
-  - High-Tech Innovation
+  - Macroeconomics
 - 🌟 **Passion**: I aim to integrate my expertise in economics with cutting-edge technologies to solve real-world problems and make data-driven decisions.
 - 💼 **Career Goal**: Working in high-tech and data-focused roles while maximizing my potential and impact.
 
@@ -33,24 +33,7 @@ Hi, I'm **Idan**, a passionate **Economist turned Data Scientist** with a strong
 - Financial Statement Analysis
 - Economic Modeling and Forecasting
 - Public Policy Evaluation
-
----
-
-## 🛠️ Current Projects
-
-- **Exploring AI Tools for Creative Expression**: Creating indie music and visual clips using **Suno.ai** and **Sora**.
-- **Automating Financial Analysis**: Building Python scripts to streamline income statement evaluations.
-- **Data Scraping & Visualization**: Pulling real-time data (e.g., headlines, economic indicators) and crafting insightful visuals.
-
----
-
-## 📚 Learning Journey
-
-- 📘 Machine Learning and AI (Self-learning and considering a structured course)
-- 📊 Advanced Data Visualization Techniques
-- 🛠️ Hands-on Projects: Working with big datasets and implementing predictive models
-- 🌐 Contributing to Open Source Projects related to data science
-
+  
 ---
 
 ## 📫 Let's Connect!
