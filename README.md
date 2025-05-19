@@ -1,45 +1,44 @@
-# 👋 Welcome to My GitHub Profile!
+# 👋 Hi, I'm Idan Buzaglo
 
-Hi, I'm **Idan**, a passionate **Economist turned Data Scientist** with a strong background in **Economics and Business Administration**. I hold a **Bachelor's degree with honors** from Ariel University and am on an exciting journey to transition into the world of **Data Science and Artificial Intelligence**.
+🎓 **Economist | Data Science Enthusiast | AI Solutions Engineer**
+I bring a strong foundation in **economics and public policy**, with hands-on experience in **AI and data-driven solutions**. With a Bachelor's degree in **Economics & Business Administration (with honors)** from Ariel University, I’m currently building the bridge between economic insight and modern data science.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **Education**: Bachelor's in Economics & Business Administration | Currently exploring Master's programs in **Industrial Engineering (Data Science)**.
-- 💡 **Interests**: 
-  - Data Science
-  - Machine Learning
-  - Financial Analysis
-  - Macroeconomics
-- 🌟 **Passion**: I aim to integrate my expertise in economics with cutting-edge technologies to solve real-world problems and make data-driven decisions.
-- 💼 **Career Goal**: Working in high-tech and data-focused roles while maximizing my potential and impact.
+* 📍 **Current Role**: *AI Solutions Engineer* at a growing startup, working at the intersection of business needs and machine learning applications.
+* 🧠 **Academic Background**:
+
+  * Bachelor's in *Economics & Business Administration*
+  * Exploring graduate studies in *Industrial Engineering (Data Science)*
+* 🎯 **Mission**: Leverage economic thinking, statistical analysis, and machine learning to tackle real-world challenges—especially those with social and strategic impact.
+* 💬 **Topics I Care About**:
+
+  * Applied Machine Learning
+  * Financial and Economic Modeling
+  * Government Strategy & Public Policy
+  * Data-Driven Product Development
 
 ---
 
-## 💻 Skills & Tools
+## 🧰 Skills & Tools
 
-### **Programming & Data Analysis**
-- Python: Pandas, NumPy, Scikit-Learn, Matplotlib
-- R: Data Visualization, Statistical Modeling
-- SQL: Beginner level but improving steadily
+### 👨‍💻 Programming & Data
 
-### **Data Visualization**
-- Excel: Advanced, including automation and complex formulas
-- RStudio: Data handling and visualization
-- Tableau (Exploring)
+* **Python** – *Pandas, NumPy, Scikit-Learn, Matplotlib*
+* **SQL** – *Learning actively through practical projects*
 
-### **Economics & Finance**
-- Financial Statement Analysis
-- Economic Modeling and Forecasting
-- Public Policy Evaluation
-  
+### 📈 Economics & Analysis
+
+* Financial statement analysis
+* Forecasting & macroeconomic modeling
+* Policy impact assessment and strategic planning
+
 ---
 
-## 📫 Let's Connect!
+## 🌐 Connect With Me
 
-- **LinkedIn**: https://www.linkedin.com/in/buzagloidan/
-- **Portfolio/Website**: [buzagloidan.com](https://buzagloidan.com/)
-- **Email**: buzagloidan@gmail.com
-
-Feel free to explore my repositories, leave feedback, or collaborate on exciting projects!
+* 🔗 **LinkedIn**: [linkedin.com/in/buzagloidan](https://www.linkedin.com/in/buzagloidan/)
+* 🌍 **Website/Portfolio**: [buzagloidan.com](https://buzagloidan.com/)
+* 📧 **Email**: [buzagloidan@gmail.com](mailto:buzagloidan@gmail.com)
