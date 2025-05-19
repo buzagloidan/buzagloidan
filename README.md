@@ -39,7 +39,7 @@ Hi, I'm **Idan**, a passionate **Economist turned Data Scientist** with a strong
 ## 📫 Let's Connect!
 
 - **LinkedIn**: https://www.linkedin.com/in/buzagloidan/
-- **Portfolio/Website**: buzagloidan.com
+- **Portfolio/Website**: [buzagloidan.com](https://buzagloidan.com/)
 - **Email**: buzagloidan@gmail.com
 
 Feel free to explore my repositories, leave feedback, or collaborate on exciting projects!
