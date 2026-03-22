@@ -13,7 +13,6 @@ Most of what I do today revolves around building AI-native products, experimenti
 * Working with LLM ecosystems and evaluating new models (OpenAI, Anthropic, Google, open-source)
 * Applying multimodal approaches (text, images, behavior) to recommendation systems
 * Bridging research concepts with practical implementations
-* 
 ---
 
 ## Technical Stack
