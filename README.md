@@ -1,5 +1,3 @@
-Idan Buzaglo
-
 AI Solutions Engineer focused on building real-world AI systems, agentic workflows, and developer-facing AI products. My work sits at the intersection of LLMs, product thinking, and business impact, with a strong bias toward shipping fast and iterating in production environments rather than staying in research mode.
 
 I come from an economics background (Magna Cum Laude, Ariel University), which still influences how I design systems—thinking in terms of incentives, efficiency, and user behavior. Currently pursuing an MSc in Industrial Engineering (Data Science), where I focus on recommendation systems, multimodal data, and applied machine learning.
