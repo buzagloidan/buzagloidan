@@ -17,7 +17,7 @@ Most of what I do today revolves around building AI-native products, experimenti
 
 ## Technical Stack
 
-* Languages: Python, TypeScript, SQL
+* Languages: Python, TypeScript, Swift
 * Data & ML: Pandas, NumPy, Scikit-learn, feature engineering, recommendation systems
 * LLM & AI stack: LangChain-style patterns, LiteLLM, Langfuse, LangSmith
 * Agent systems: tool usage, memory design, multi-agent orchestration
